@@ -1,5 +1,5 @@
-# db_class-hospital-database
-hospital database composed of sql files
+# db_class-university-database
+university database composed of sql files
 
 Prerequisites:
 To run this database please have MySQL or any similar database server installed along with their clients
