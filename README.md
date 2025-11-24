@@ -5,6 +5,7 @@ Prerequisites:
 To run this database please have MySQL or any similar database server installed along with their clients
 
 When cloning this repository your directory should look like this when you change into the repository directory:
+```bash
 -rw-r--r--@ 1 austinhome  staff  1158 Nov 22 14:55 Create_Tables_Script.sql
 -rw-r--r--@ 1 austinhome  staff  2317 Nov 22 14:54 Insert_Courses_Script.sql
 -rw-r--r--@ 1 austinhome  staff   543 Nov 22 14:54 Insert_Department_Script.sql
@@ -12,7 +13,7 @@ When cloning this repository your directory should look like this when you chang
 -rw-r--r--@ 1 austinhome  staff  2288 Nov 22 14:54 Insert_Professors_Script.sql
 -rw-r--r--@ 1 austinhome  staff  7122 Nov 22 14:54 Insert_Students_Script.sql
 -rw-r--r--@ 1 austinhome  staff   376 Nov 22 15:13 README.md
-
+```
 In order of how to load your sql files into the MySQL database or any other equivalant database:
 1. Create_Tables_Script.sql
 2. Insert_Students_Script.sql
